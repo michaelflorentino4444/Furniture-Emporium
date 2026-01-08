@@ -1,0 +1,17 @@
+p {
+  font-size: 14pt;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(2, 33, 2);
+  padding: 10px;
+  margin: 5px;
+}
+button {
+  background-color: rgb(12, 174, 23);
+  color: white;
+}
+article {
+  font-size: 18pt;
+  background-color: bisque;
+  max-width: 45ch;
+  border-radius: 10px;
+}
